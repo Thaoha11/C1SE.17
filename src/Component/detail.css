@@ -1,0 +1,25 @@
+.wapper {
+    margin: auto;
+    width: fit-content;
+    display: flex;
+    padding: 60px;
+}
+.img-detail {
+    width: 250px;
+    margin: auto;
+}
+.info {
+    display: inline-block;
+    margin-left: 18px;
+}
+.info ul {
+    margin-left: 6px;
+}
+.info ul li {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+.info ul li span {
+    font-weight: normal;
+}

@@ -1,0 +1,21 @@
+.detail {
+    display: inline-block;
+    width: 100%;
+    margin: auto;
+}
+.wapper {
+    margin: auto;
+    width: fit-content;
+    display: flex;
+    padding: 30px;
+}
+.img-detail {
+    width: 250px;
+    margin: auto;
+}
+.info {
+    display: inline-block;
+}
+/* .info ul {
+    margin-left: 6px;
+} */

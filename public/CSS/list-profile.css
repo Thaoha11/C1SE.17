@@ -1,0 +1,33 @@
+.list {
+    display: flex;
+    padding-top: 35px;
+}
+.img-larger {
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+.list-human {
+    display: grid;
+    padding-top: 30px;
+}
+.img-small {
+    width: 120px;
+    height: 120px;
+
+    margin-top: 8px;
+}
+.table-condensed {
+    width: 800px;
+    margin: auto;
+}
+.cart-menu {
+    background: #3399ff;
+    color: #fff;
+    font-size: 16px;
+    height: 40px;
+    text-align: center;
+}
+.detail p {
+    text-align: center;
+}

@@ -1,0 +1,59 @@
+.menu-left {
+    color: gray;
+    font-size: 15px;
+    margin-left: 32px;
+    text-transform: uppercase;
+    font-family: "Material Icons";
+
+    text-decoration: none !important;
+}
+.metismenu li {
+    margin-bottom: 40px;
+}
+.metismenu li h2 {
+    text-align: center;
+    color: black;
+    padding-bottom: 14px;
+    font-family: "Font Awesome 5 Free";
+}
+.metismenu li h2:after {
+    content: "";
+    width: 13%;
+    position: absolute;
+    left: 28px;
+    bottom: 580px;
+    border-bottom: 2px solid rgba(102, 97, 91, 0.3);
+}
+.left-side-menu {
+    border: 2px solid #f7f7f0;
+    /* margin-bottom: 35px; */
+    padding-bottom: 20px;
+    padding-top: 15px;
+    width: fit-content;
+    /* margin-top: 40px; */
+}
+.content-page {
+    width: 93%;
+}
+.col-12 {
+    background-color: white;
+    padding: 8px;
+}
+.breadcrumb {
+    background-color: white;
+    float: right;
+}
+.page-title {
+    padding: 5px;
+    margin-left: 20px;
+}
+.row {
+    padding: 19px;
+}
+.card-box {
+    background-color: #fff;
+    padding: 1.25rem;
+
+    margin-bottom: 24px;
+    border-radius: 0.25rem;
+}

@@ -1,0 +1,75 @@
+.login {
+    display: block;
+    text-align: center;
+    padding: 36px;
+    background-color: #f7f7f7;
+}
+.td {
+    font: 600 30px/32px Demi;
+    letter-spacing: 1.98px;
+    color: #0a0a0a;
+    text-transform: uppercase;
+    text-align: center;
+}
+.email {
+    height: 18px;
+    font: 500 15px/18px Medium;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    opacity: 1;
+    text-align: center;
+    display: block;
+    margin-left: -325px;
+}
+#email {
+    display: block;
+
+    height: 40px;
+    border: 1px solid #a7a7a7;
+    border-radius: 4px;
+    margin: auto;
+    width: 375px;
+}
+.pass {
+    height: 18px;
+    font: 500 15px/18px Medium;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    opacity: 1;
+    text-align: center;
+    display: block;
+    margin-left: -290px;
+    margin-top: 20px;
+}
+#password {
+    display: block;
+    height: 40px;
+    border: 1px solid #a7a7a7;
+    border-radius: 4px;
+    margin: auto;
+    width: 375px;
+}
+.btn {
+    color: #fff;
+    background-color: #3399ff;
+    border: 1px solid #3399ff;
+    font-size: 23px;
+    font-family: Medium;
+    padding: 0 30px;
+    height: 40px;
+    text-align: center;
+    margin-left: 252px;
+}
+.note {
+    padding: 3px 15px;
+
+    font: 400 13px/23px Book;
+    margin-left: -275px;
+
+    color: #e53c6d;
+}
+.signin {
+    padding: 25px;
+    font-size: 20px;
+    display: block;
+}

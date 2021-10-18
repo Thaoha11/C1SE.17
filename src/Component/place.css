@@ -1,0 +1,11 @@
+.map {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding: 40px;
+}
+select {
+    display: block;
+    margin-left: 149px;
+    margin-bottom: 25px;
+    border: 1px solid #eee;
+}
